@@ -39,7 +39,7 @@ Tumor subregions are visualized using the following color scheme:
 - **Yellow:** Enhancing Tumor (ET)
 - **White dashed contours:** Ground-truth boundaries
 
-![Qualitative brain tumor segmentation results](results/figures/output.png)
+![Qualitative brain tumor segmentation results](output.png)
 
 *Figure 1. Qualitative full-volume segmentation results for three BraTS 2021 test samples.*
 
